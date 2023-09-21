@@ -25,7 +25,7 @@
 /* Containers */
 #container {
     display: flex;
-    flex-direction: row:
+    flex-direction: row;
     color: var(--main-text-color);
 }
 
@@ -43,6 +43,7 @@
     min-height: 100vh;
     background-color: var(--about-bg-color);
     padding: 50px;
+}
 
 #bio-container img {
     width: 150px;
